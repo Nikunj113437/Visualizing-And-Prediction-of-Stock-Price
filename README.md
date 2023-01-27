@@ -36,8 +36,8 @@ Many things and parameters may affect it on the way due to which long term forec
 
 ## Inputs from User:
 In this Project, I take 3 inputs from User:
-                      1. Stock Code
-                      2. Date Range (in which it is showing opening and closing Price of Stock)
+                      1. Stock Code<br>
+                      2. Date Range (in which it is showing opening and closing Price of Stock)<br>
                       3. No. of Days in which it will predict Price of Stock in near Future
                       
 ## ScreenShots Of Working Project
