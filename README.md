@@ -10,4 +10,5 @@ The proposed system will not always produce accurate results since it does not a
 The objective of the system is to give an approximate idea of where the stock market might be headed. It does not give a long-term forecasting of a stock value. There are way too many reasons to acknowledge for the long-term output of a current stock.
 Many things and parameters may affect it on the way due to which long term forecasting is just not feasible.
 
-![image](https://user-images.githubusercontent.com/72342649/215037214-133763f7-db7b-47bc-a9e0-6003a3e2b513.png)
+![image](https://user-images.githubusercontent.com/72342649/215037413-59063248-5f32-482e-9d2c-71607396c5aa.png)
+
