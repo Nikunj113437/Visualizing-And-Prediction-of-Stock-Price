@@ -12,9 +12,14 @@ Many things and parameters may affect it on the way due to which long term forec
 
 ## Data Flow Diagram Level 0,1,2
 ![image](https://user-images.githubusercontent.com/72342649/215038264-06ae0e59-e073-4826-9cca-c77d4680d2be.png)
+
 ![image](https://user-images.githubusercontent.com/72342649/215037930-f9b7593b-7de7-4938-8b51-3064aec4417a.png)
+
 ![image](https://user-images.githubusercontent.com/72342649/215037953-b21da70d-1436-445b-bee0-db378ad92953.png)
 
+## Use Case Diagram
 ![image](https://user-images.githubusercontent.com/72342649/215037413-59063248-5f32-482e-9d2c-71607396c5aa.png)
+
+## Swimlane Diagram
 ![image](https://user-images.githubusercontent.com/72342649/215037650-6c3bb639-a54c-488c-b6b2-f3bebb07ead5.png)
 
