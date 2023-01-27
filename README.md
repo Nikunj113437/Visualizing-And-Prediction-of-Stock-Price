@@ -6,3 +6,8 @@ There are some fundamental financial indicators by which a company’s stock val
 Price/Cash Flow (P/CF) Ratio, Price-to-Book Value (P/BV) Ratio and Debt-to Equity Ratio. Some of the parameters are available and accessible on the web but all of them aren’t. So, we are confined to use the variables that are available to us.
 
 The proposed system will not always produce accurate results since it does not account for the human behaviours. Factors like change in company’s leadership, internal matters, strikes, protests, natural disasters, change in the authority cannot be taken into account for relating it to the change in Stock market by the machine.
+
+The objective of the system is to give an approximate idea of where the stock market might be headed. It does not give a long-term forecasting of a stock value. There are way too many reasons to acknowledge for the long-term output of a current stock.
+Many things and parameters may affect it on the way due to which long term forecasting is just not feasible.
+
+![image](https://user-images.githubusercontent.com/72342649/215037214-133763f7-db7b-47bc-a9e0-6003a3e2b513.png)
