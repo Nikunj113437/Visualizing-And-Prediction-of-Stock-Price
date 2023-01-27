@@ -10,6 +10,8 @@ The proposed system will not always produce accurate results since it does not a
 The objective of the system is to give an approximate idea of where the stock market might be headed. It does not give a long-term forecasting of a stock value. There are way too many reasons to acknowledge for the long-term output of a current stock.
 Many things and parameters may affect it on the way due to which long term forecasting is just not feasible.
 
+### For this Project, I take Data of Stocks from Yahoo Finance, and applying SVR(Support Vector Regression) along with HyperParameter Tuning with Grid Search CV to in order to optimize the Parameters of SVR so that it will give Best Possible Accuracy of Stock Price.
+And For Visualization Of Opening, Closing Price and Predicted Price of Stock through Graphs, Plotly is Used.
 ## Data Flow Diagram Level 0,1,2
 ![image](https://user-images.githubusercontent.com/72342649/215038264-06ae0e59-e073-4826-9cca-c77d4680d2be.png)
 
@@ -22,4 +24,30 @@ Many things and parameters may affect it on the way due to which long term forec
 
 ## Swimlane Diagram
 ![image](https://user-images.githubusercontent.com/72342649/215037650-6c3bb639-a54c-488c-b6b2-f3bebb07ead5.png)
+
+## Use Case Diagram
+![image](https://user-images.githubusercontent.com/72342649/215039008-55fd8256-5d80-42b5-917a-c79f6043ed5b.png)
+
+## Sequence Diagram
+![image](https://user-images.githubusercontent.com/72342649/215039088-4715460e-ee20-46cc-8133-0b220d8d8319.png)
+
+## Collaboration Diagram
+![image](https://user-images.githubusercontent.com/72342649/215039162-a110d9fe-94fb-4dd2-bd37-671ef604216a.png)
+
+## Inputs from User:
+In this Project, I take 3 inputs from User:
+                      1. Stock Code
+                      2. Date Range (in which it is showing opening and closing Price of Stock)
+                      3. No. of Days in which it will predict Price of Stock in near Future
+                      
+## ScreenShots Of Working Project
+![image](https://user-images.githubusercontent.com/72342649/215039507-a4965cc8-f71b-4bb9-a312-98c5b85ddfae.png)
+
+![image](https://user-images.githubusercontent.com/72342649/215039581-30512775-cae4-4e05-966f-6d6ce8774c90.png)
+
+![image](https://user-images.githubusercontent.com/72342649/215039610-96de3eb2-342d-4d2c-b5f1-39bf88bdf976.png)
+
+![image](https://user-images.githubusercontent.com/72342649/215039716-79533d13-5575-43f1-b8de-f9d0e4ccd49c.png)
+
+
 
