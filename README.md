@@ -10,8 +10,8 @@ The proposed system will not always produce accurate results since it does not a
 The objective of the system is to give an approximate idea of where the stock market might be headed. It does not give a long-term forecasting of a stock value. There are way too many reasons to acknowledge for the long-term output of a current stock.
 Many things and parameters may affect it on the way due to which long term forecasting is just not feasible.
 
-### For this Project, I take Data of Stocks from Yahoo Finance, and applying SVR(Support Vector Regression) along with HyperParameter Tuning with Grid Search CV to in order to optimize the Parameters of SVR so that it will give Best Possible Accuracy of Stock Price.
-And For Visualization Of Opening, Closing Price and Predicted Price of Stock through Graphs, Plotly is Used.
+#### For this Project, I take Data of Stocks from Yahoo Finance, and applying SVR(Support Vector Regression) along with HyperParameter Tuning with Grid Search CV to in order to optimize the Parameters of SVR so that it will give Best Possible Accuracy of Stock Price.
+#### And For Visualization Of Opening, Closing Price and Predicted Price of Stock through Graphs, Plotly is Used.
 ## Data Flow Diagram Level 0,1,2
 ![image](https://user-images.githubusercontent.com/72342649/215038264-06ae0e59-e073-4826-9cca-c77d4680d2be.png)
 
